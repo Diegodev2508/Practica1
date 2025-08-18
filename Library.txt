@@ -1,0 +1,4 @@
+Libro {libroId = "ESCORPION", prestamo = 2025-08-16 23:27:26.2025341 UTC, devolucion = Just 2025-08-16 23:29:22.3515039 UTC}
+Libro {libroId = "ESCORPION", prestamo = 2025-08-16 23:25:51.6574478 UTC, devolucion = Just 2025-08-16 23:29:22.3515039 UTC}
+Libro {libroId = "BLACK SABBATH", prestamo = 2025-08-16 23:25:32.5347416 UTC, devolucion = Just 2025-08-16 23:29:47.2116203 UTC}
+Libro {libroId = "HEAVY METAL", prestamo = 2025-08-16 23:24:28.3373231 UTC, devolucion = Just 2025-08-16 23:29:58.3063188 UTC}
