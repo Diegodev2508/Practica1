@@ -15,6 +15,9 @@ Haskell wiki
 Video de apoyo y material del profesor
 videos de youtube
 
+Video presentacion : 
+https://www.youtube.com/watch?v=H3WgGfK2yXA
+
 
 Programa esta desarrollado 100% en Haskell
 Caracteristicas :
