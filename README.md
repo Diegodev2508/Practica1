@@ -2,18 +2,18 @@ ST0244 - Lenguajes y Paradigmas de programación
 Profesor: Alejandro Narvaez Berrío
 
 Estudiantes: 
-Diego Andres Caballero Fernandez.
+Diego Andres Caballero Fernandez / 
 Juan Diego Muñoz Buitrago.
 
 Plataformas utilizadas :
-Intellij IDEA.
+Intellij IDEA /
 CMD.
 
 Fuentes de informacion: 
-stackoverflow
-Haskell wiki
-Video de apoyo y material del profesor
-videos de youtube
+stackoverflow /
+Haskell wiki /
+Video de apoyo y material del profesor /
+videos de youtube.
 
 Video presentacion : 
 https://www.youtube.com/watch?v=H3WgGfK2yXA
